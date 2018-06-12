@@ -26,4 +26,3 @@ mv delivery/lean_cuisine.txt freezer;
 mv delivery/fig_bars.txt snax;
 mv delivery/goldfish.txt snax;
 mv delivery/trail_mix.txt snax;
-ls;
