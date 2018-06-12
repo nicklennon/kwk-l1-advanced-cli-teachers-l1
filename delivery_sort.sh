@@ -15,3 +15,4 @@ mv delivery/land_o_lakes_butter.txt dairy;
 mv delivery/milk.txt dairy;
 mv delivery/velveeta_cheese.txt dairy;
 mv delivery/broccoli.txt veggies;
+mv delivery/carrots.txt veggies;
