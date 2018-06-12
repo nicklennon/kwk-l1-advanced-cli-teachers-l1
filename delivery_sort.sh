@@ -1,1 +1,1 @@
-delivery ls;
+/delivery ls;
